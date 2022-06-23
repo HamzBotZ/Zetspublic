@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6288214989352']
 global.premium = ['0']
 global.ownername = 'Zetaa'
 global.botname = 'Zets Public'
