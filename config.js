@@ -8,25 +8,25 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': '71fac82434',
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6288214989352']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.ownername = 'Hamz'
+global.botname = 'ZxynnBotz'
+global.packname = '© ZxynnBotz'
+global.gc = 'https://bit.ly/3QtALnW'
+global.linkyt = 'https://youtube.com/c/Hamz9999+'
+global.linkgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.author = 'ZxynnBotz\n@IlhamGanz'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: 'Berhasil',
+    success: 'Bilang Apa?!',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
@@ -44,7 +44,7 @@ global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
 global.allmenu = fs.readFileSync('./media/allmenu.jpg')
-global.thumb = { url: 'https://i.pinimg.com/736x/d0/f8/b8/d0f8b804a908ce4aaee63d54035d2192.jpg' }
+global.thumb = { url: 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' }
 global.visoka = { url: 'https://telegra.ph/file/769d88bb8c8357546a149.mp4' }
 
 let file = require.resolve(__filename)
